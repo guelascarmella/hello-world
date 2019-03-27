@@ -11,6 +11,7 @@ public class HelloWorld {
        
        int total = x + y;
         System.out.println("Sum: " + total);
+        System.out.println("I am Gillian");
     }
     
 }
